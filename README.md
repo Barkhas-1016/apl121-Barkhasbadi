@@ -8,5 +8,5 @@
 
 ## Хөрвүүлэх
 
-'gcc hello.c -o hello гэж хөрвүүлээд ./hello гэж ажиллуулна.
+`gcc hello.c -o hello` гэж хөрвүүлээд `./hello` гэж ажиллуулна.
 
